@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "functional",
+  "key": {
+    "I": {"item": "minecraft:iron_bars"},
+    "G": {"item": "minecraft:gold_block"},
+    "R": {"item": "minecraft:blaze_rod"},
+    "B": {"item": "create:empty_blaze_burner"}
+  },
+  "pattern": [
+    " I ",
+    "RGR",
+    " B "
+  ],
+  "result": {"item": "create:blaze_burner"},
+  "show_notification": true
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "I": {"item": "createaddition:iron_rod"},
+    "W": {"tag": "minecraft:planks"}
+  },
+  "pattern": [
+    "I I",
+    "IWI",
+    "I I"
+  ],
+  "result": {"count": 32, "item": "minecraft:rail"},
+  "show_notification": true
+}

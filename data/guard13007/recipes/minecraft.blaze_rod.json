@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "ingredients",
+  "key": {
+    "R": {"item": "createaddition:brass_rod"},
+    "F": {"item": "create:cinder_flour"}
+  },
+  "pattern": [
+    "FFR",
+    "FRF",
+    "RFF"
+  ],
+  "result": {"count": 2, "item": "minecraft:blaze_rod"},
+  "show_notification": true
+}
